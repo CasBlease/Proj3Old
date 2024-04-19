@@ -1,1 +1,1 @@
-Server log still updates properly, just not abbreviated. Username reuse not screened out. runLater is present in both GUIClient and GUIServer.
+Server log still updates properly, just not abbreviated. Username reuse not screened out. runLater is present in both GUIClient and GUIServer. userList doesn't update nor does the view users button update it
